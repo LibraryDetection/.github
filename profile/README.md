@@ -2,10 +2,9 @@
 
 Library reservation system using library detection
 
-# Project Architecture
+## 1. Project Architecture
 
-![image01](https://github.com/LibraryDetection/.github/assets/79658037/f1603487-21e4-4f72-9b0e-84470979ac35)
-
+<img src="https://github.com/LibraryDetection/.github/assets/79658037/f1603487-21e4-4f72-9b0e-84470979ac35.png" width="600" height="300"/>
 
 <!--
 
