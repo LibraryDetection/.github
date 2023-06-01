@@ -31,10 +31,11 @@ YOLOv5 모델을 이용해 짐과 사람, 의자를 감지하고, django와 reac
 <div align="center">
     <img src="https://github.com/jeongmin1217/favorite_restaurant/blob/main/overview.png">
 </div>
+
 ### Project Architecture
 
 <div align="center">
-    <img style="width:80rem; height:auto;" src="https://github.com/LibraryDerection/.github/profile/architecture.PNG"/>
+    <img style="width:80rem; height:auto;" src="https://github.com/LibraryDerection/.github/profile/blob/main/architecture.PNG"/>
 </div>
 
 ### Built With
