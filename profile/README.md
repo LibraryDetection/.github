@@ -16,6 +16,6 @@ YOLOv5 모델을 이용해 짐과 사람, 의자를 감지하고, django와 reac
 
 ### Project Architecture
 
-![architecture](https://github.com/LibraryDetection/.github/assets/79658037/e751cdd9-2e55-4651-8c4d-d7c2277488e1)
+<img src="https://github.com/LibraryDetection/.github/assets/79658037/e751cdd9-2e55-4651-8c4d-d7c2277488e1" align="center" style="width:50rem; height:auto;"></img>
 
-- 네트워크 포트포워딩을 통해 송출한 실시간 IP카메라의 영상을 서버에서 프레임 단위로 받아 자체 구축한 YOLOv5 모델로 분석 후 결과값을 DB에 쌓아 상황에 따라 알맞은 처리를 진행합니다.
+**네트워크 포트포워딩을 통해 송출한 실시간 IP카메라의 영상을 서버에서 프레임 단위로 받아 자체 구축한 YOLOv5 모델로 분석 후 결과값을 DB에 쌓아 상황에 따라 알맞은 처리를 진행합니다.**
