@@ -12,8 +12,10 @@ YOLOv5 모델을 이용해 짐과 사람, 의자를 감지하고, django와 reac
 
 ### Overview
 
-<img src="https://github.com/LibraryDetection/.github/assets/79658037/f4d3a024-57a7-423a-80f7-05e19f9ede80"  style="width:50rem; height:auto;"></img>
+![demo](https://github.com/LibraryDetection/.github/assets/79658037/c8181dee-5817-4627-8c11-57b86d3460be)
 
+<!-- <img src="https://github.com/LibraryDetection/.github/assets/79658037/f4d3a024-57a7-423a-80f7-05e19f9ede80"  style="width:50rem; height:auto;"></img>
+ -->
 ### Project Architecture
 
 ![architecture](https://github.com/LibraryDetection/.github/assets/79658037/e751cdd9-2e55-4651-8c4d-d7c2277488e1)
