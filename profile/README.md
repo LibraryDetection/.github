@@ -4,6 +4,16 @@
 
 YOLOv5 모델을 이용해 짐과 사람, 의자를 감지하고, django와 react를 기반으로 구현한 예약시스템에서 사석화와 미반납 행위가 실시간 카메라로 감지될 시 자동으로 퇴실처리되는 시스템입니다.
 
+## Team Members
+
+| Name         | Department                                   | Git                        | Role                        |
+| :------------- | :--------------------------------------------: | :------------------------------: |
+| 서정민    | Industrial Management Engineering & Software Convergence                    | https://github.com/jeongmin1217     |
+| 권기현  | Industrial Management Engineering & Computer Science                    | https://github.com/kkh0331     |
+| 김영찬 | Industrial Management Engineering               | https://github.com/0000ch       |
+| 하지민 | Industrial Management Engineering                | https://github.com/zzzimi0206    |
+| 전계범  | Industrial Management Engineering & Software Convergence       | https://github.com/k-bum |
+
 ## Main Functions
 
 - 일반적인 예약시스템의 CRUD 구현 (예약, 반납)
