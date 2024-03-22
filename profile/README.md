@@ -26,6 +26,15 @@ YOLOv5 모델을 이용해 짐과 사람, 의자를 감지하고, django와 reac
 
 <img src="https://github.com/LibraryDetection/.github/assets/79658037/98132ca8-024e-4dd5-b9c7-b962e102b814" style="width:30rem; height:auto;"></img>
 
+1. 영상 하단에 실시간 IP 카메라 주소를 입력하여 열람실 카메라 실시간 송출
+2. 9번 좌석 : 사석화 자리에 대해 일정 시간 지난 후, 자동으로 좌석 반납 처리
+3. 10번 좌석 : 잠시 자리를 비운 경우는 사석화와 달리 좌석 반납 처리가 되지 않음
+4. 3번 좌석 : 자리를 떠났지만 시스템 상 반납을 깜박한 경우, 일정 시간 지난 후 자동으로 좌석 반납 처리
+
 ### Project Architecture
 
 <img src="https://github.com/LibraryDetection/.github/assets/79658037/e751cdd9-2e55-4651-8c4d-d7c2277488e1" align="center" style="width:50rem; height:auto;"></img>
+
+### Awards
+- 경희대학교 2023학년도 1학기 캡스톤디자인 경진대회 우수상 (경희대학교 LINC 사업단)
+- 2023년 도시형소공인 집적지구 캡스톤 경진대회 장려상 (용인시산업진흥원)
