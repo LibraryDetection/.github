@@ -7,7 +7,7 @@ YOLOv5 모델을 이용해 짐과 사람, 의자를 감지하고, django와 reac
 ## Team Members
 
 | Name         | Department                                   | Git                        | Role                        |
-| :------------- | :--------------------------------------------: | :------------------------------: | :------------------------------: |
+| :--------------- | :--------------------------------------------: | :------------------------------: | :------------------------------: |
 | 서정민    | Industrial Management Engineering & Software Convergence                    | https://github.com/jeongmin1217     | 팀장, BE, FE, Data Analysis |
 | 권기현  | Industrial Management Engineering & Computer Science                    | https://github.com/kkh0331     | BE, FE, Data Analysis |
 | 김영찬 | Industrial Management Engineering               | https://github.com/0000ch       | Data Analysis |
